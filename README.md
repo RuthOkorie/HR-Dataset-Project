@@ -1,5 +1,6 @@
 # Employee Attrition Analysis
 
+## Table Of Outline
 ## [Project Overview](#project-overview)
 ## [Data Sources](#data-sources)
 ## [Tools Used](#tools-used)
@@ -7,7 +8,7 @@
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Data Analysis](#data-analysis)
 ## [Visualisation](#visualisation)
-## [Inference/ Insight](Inference-Insight)
+## [Inference Insight](#inference-insight)
 
 ---
 ### Project Overview
