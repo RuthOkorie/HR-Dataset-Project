@@ -50,10 +50,12 @@ WHERE CONDITION = TRUE
 ![employee attrition dashboard](https://github.com/user-attachments/assets/1c949ebd-06da-47f8-bc8a-a564372ebdb3)
 
 
+### Inference/ Insight
+This is where I provide key findings from the analysis
 
-
-
-
+  1. High Turnover in R&D and Sales: Attrition in these departments highlights the need for role-specific interventions. This may include adjusting workloads, reviewing compensation, or providing more training opportunities.
+  2. Younger Employees Leaving: Younger employees in the 25-34 age range are more likely to leave. This suggests the need for career advancement programs and competitive benefits that appeal to this demographic.
+  3. Impact of Education on Attrition: High attrition among employees with advanced degrees (Bachelor’s and Master’s) may indicate a mismatch between job expectations and actual roles, pointing towards the need for career alignment.
 
 
    
