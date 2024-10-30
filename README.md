@@ -45,9 +45,11 @@ WHERE CONDITION = TRUE
 
 ### Visualisation
 
+![attrition chart](https://github.com/user-attachments/assets/a114a4b2-98f1-4a3e-9daf-a163e1a22c5b)
+
 ![employee attrition dashboard](https://github.com/user-attachments/assets/1c949ebd-06da-47f8-bc8a-a564372ebdb3)
 
-![attrition chart](https://github.com/user-attachments/assets/a114a4b2-98f1-4a3e-9daf-a163e1a22c5b)
+
 
 
 
