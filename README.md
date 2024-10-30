@@ -7,7 +7,7 @@
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Data Analysis](#data-analysis)
 ## [Visualisation](#visualisation)
-## [Inference/ Insight](Inference/ Insight)
+## [Inference/ Insight](Inference/Insight)
 
 ---
 ### Project Overview
