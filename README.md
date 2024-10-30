@@ -7,11 +7,41 @@ The Employee Attrition Analysis is a data-driven visualization designed to uncov
 The primary source of Data used here is HR Data.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle, FRED or any other data repository site. 
 
 ### Tools Used
-- Microsoft Excel [Download Here](http://www.microsoft.com)
+- Microsoft Excel
+  - [Download Here](http://www.microsoft.com)
   1. This is used for initial data cleaning, formatting, and exploratory data analysis.
   2. It enabled me to pivot and analyze my data.
 - Microsoft Power BI
-  - This is used for data visualization and dashboard creation, transforming raw data into clear and insightful visuals.
+  1. I leveraged Power Bi for data visualization and dashboard creation.
+  2. This is used for transforming raw data into clear and insightful visuals.
+- SQL
+  1. This is used for querying and extracting relevant data from the the database.
+  2. I employed SQL for  data manipulation.
+- Google sheet     
+  1. This is used to integrate multiple tools for comprehensive analysis.
+  2. It is used to develop supplementary charts and graphs.
+ 
+### Data Cleaning and Preparation
+In the initial phase of Data cleaning and preparation, I performe the following actions;
+  1. Data loading and Inspection
+  2. Handling missing values
+  3. Data normalization
+  4. Data cleaning and Formatting
+  5. Data Quality check.
+
+### Exploratory Data Analysis
+EDA involves the exploring of the Data to answer some questions about the data such as;
+  - What are the causes of attrition
+  - What is the rate of attrition.
+  - What is the attrition count by department
+
+### Data Analysis
+This is where I include some basic line of codes, queries or even DAX expressions used during my analysis.
+  ```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
 
 
-SQL: (optional, depending on data source) for querying and extracting relevant data from the company’s database.
+  
+   
