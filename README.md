@@ -7,7 +7,7 @@ The Employee Attrition Analysis is a data-driven visualization designed to uncov
 The primary source of Data used here is HR Data.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle, FRED or any other data repository site. 
 
 ### Tools Used
-- Microsoft Excel
+- Microsoft Excel [Download Here](http:/www.microsoft.com)
   1. This is used for initial data cleaning, formatting, and exploratory data analysis.
   2. It enabled me to pivot and analyze my data.
 - Microsoft Power BI
