@@ -41,7 +41,9 @@ This is where I include some basic line of codes, queries or even DAX expression
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+![Screenshot 2024-10-30 100745](https://github.com/user-attachments/assets/1e398418-d3cf-4bad-a35d-516c2fc163e9)
+![Screenshot 2024-10-30 160429](https://github.com/user-attachments/assets/9c170910-7d75-40ad-8dad-b7427a36cb76)
 
+### Visualisation
 
-  
    
