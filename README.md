@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 
-## [Project Overview](project-overview)
+## [Project Overview](#project-overview)
 
 ---
 ### Project Overview
