@@ -1,6 +1,8 @@
 # Employee Attrition Analysis
 
 ## [Project Overview](#project-overview)
+## [Data Sources](#data-sources)
+## [Tools Used](#tools-used)
 
 ---
 ### Project Overview
