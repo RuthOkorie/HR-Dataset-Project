@@ -1,5 +1,15 @@
-# Employee Attrition Analysis
+# Employee Attrition Analysis 
 
+## [Table of outline]
+## [Project Overview](#project-overview)
+## [Data Sources](#data-sources
+## [Tools Used]
+## [Data Cleaning and Preparation]
+## [Exploratory Data Analysis]
+## [Data Analysis] 
+## [Visualisation]
+## [Inference and Insight]
+## [Recommendations for Reducing Attrition]
 ---
 ### Project Overview
 The Employee Attrition Analysis is a data-driven visualization designed to uncover key insights into workforce attrition. This dashboard aggregates and presents data on employee turnover, department-based attrition, education level, gender distribution, age groups, and job roles to identify patterns and potential drivers of employee attrition.
@@ -59,7 +69,7 @@ WHERE CONDITION = TRUE
 ![employee attrition dashboard](https://github.com/user-attachments/assets/1c949ebd-06da-47f8-bc8a-a564372ebdb3)
 
 ---
-### Inference/ Insight
+### Inference and Insight
 This is where I provide key findings from the analysis
 
   1. High Turnover in R&D and Sales: Attrition in these departments highlights the need for role-specific interventions. This may include adjusting workloads, reviewing compensation, or providing more training opportunities.
