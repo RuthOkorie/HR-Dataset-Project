@@ -2,14 +2,15 @@
 
 ## [Table of outline]
 ## [Project Overview](#project-overview)
-## [Data Sources](#data-sources
-## [Tools Used]
-## [Data Cleaning and Preparation]
-## [Exploratory Data Analysis]
-## [Data Analysis] 
-## [Visualisation]
-## [Inference and Insight]
-## [Recommendations for Reducing Attrition]
+## [Data Sources](#data-sources)
+## [Tools Used](#tools-used)
+## [Data Cleaning and Preparation](#data-cleaning-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Data Analysis](#data-analysis) 
+## [Visualisation](#visualisation)
+## [Inference and Insight](#inference-insight)
+## [Recommendations for Reducing Attrition](#recommendations-for-reducing-attrition)
+
 ---
 ### Project Overview
 The Employee Attrition Analysis is a data-driven visualization designed to uncover key insights into workforce attrition. This dashboard aggregates and presents data on employee turnover, department-based attrition, education level, gender distribution, age groups, and job roles to identify patterns and potential drivers of employee attrition.
