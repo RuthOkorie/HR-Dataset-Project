@@ -1,7 +1,7 @@
 # Employee Attrition Analysis 
 
 ## [Table of outline]
-## [Project Overview](#project-overview)
+### [Project Overview](#project-overview)
 ## [Data Sources](#data-sources)
 ## [Tools Used](#tools-used)
 ## [Data Cleaning and Preparation](#data-cleaning-preparation)
