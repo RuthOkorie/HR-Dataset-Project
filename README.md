@@ -1,6 +1,6 @@
 # Employee Attrition Analysis 
 
-## Table of outline
+## [Table of outline]
 
 
 ## [Project Overview](#project-overview)
